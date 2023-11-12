@@ -1,5 +1,3 @@
-# LinkedIn-assistance
-## voice assistance 
-
-## summary
-  use LinkedIn with voice command
+# LinkedIn-voice-assistance
+# summary
+# Use LinkedIn with voice command
