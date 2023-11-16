@@ -1,4 +1,4 @@
-# LinkedIn-voice-assistance  Tech Stack - JavaScript , HTML , CSS , Chrome Extension Library
+# LinkedIn-voice-assistance -> Tech Stack - JavaScript , HTML , CSS , Chrome Extension Library
 
 ## Implemented a button on the LinkedIn page to enable user interaction for accessing saved posts.
 ## Developed functionality to open saved posts upon clicking the designated button.
